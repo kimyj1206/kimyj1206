@@ -2,7 +2,21 @@
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=CCFFFF&text=Hello!👋&fontAlignY=45&fontSize=60&height=165&animation=blinking&desc=Welcome%20to%20your%20visit&descAlignY=70&fontColor=333333" />
 </div>
 
-<body>	
+<body>
+<br/>
+<p align=center>
+	Hello! I'm a Junior Back-End Developer. <br/>
+	I want to be the center of the development team someday. That's my goal. <br/>
+	To achieve that, I will continue to learn, show results, and grow. <br/>
+	Please watch me with interest!
+</p>
+
+<div align=center>
+	<h1>:mailbox_with_mail: Contacts :mailbox_with_mail:</h1>
+	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyj02126@gmail.com)(mailto:kimyj02126@gmail.com)" />
+	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimyj1592@naver.com)(mailto:kimyj1592@naver.com)" />
+</div>
+ 
 <div align=center>
 	<h1> 🛠 Tech Stack and Tools 🛠 </h1>
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
@@ -36,12 +50,6 @@
   	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimyj1206&theme=nord_dark" />
    	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimyj1206&theme=nord_dark&utcOffset=8" />
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyj1592" />
-</div>
-
-<div align=center>
-	<h1>:mailbox_with_mail: Contacts :mailbox_with_mail:</h1>
-	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyj02126@gmail.com)(mailto:kimyj02126@gmail.com)" />
-	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimyj1592@naver.com)(mailto:kimyj1592@naver.com)" />
 </div>
 </body>
 
