@@ -2,7 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=CCFFFF&text=Hello!👋&fontAlignY=45&fontSize=60&height=165&animation=blinking&desc=Welcome%20to%20your%20visit&descAlignY=70&fontColor=333333" />
 </div>
 
-<body>
 <br/>
 <p align=center>
 	Hello! I'm a Junior Back-End Developer. <br/>
@@ -47,14 +46,14 @@
 
 <div align=center>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimyj1206&count_bg=%233D5FC8&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-	<br />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimyj1206&theme=nord_dark" />
 	<br /><br />
- 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimyj1206&theme=nord_dark" />
-  	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimyj1206&theme=nord_dark" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyj1206&layout=compact)
+	<br />
+![kimyj1206's github stats](https://github-readme-stats.vercel.app/api?username=kimyj1206)
+	<br />
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyj1592" />
 </div>
-</body>
 
 ---
 
@@ -74,6 +73,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimyj1206&theme=nord_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimyj1206&theme=nord_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimyj1206&theme=nord_dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimyj1206&theme=nord_dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimyj1206&theme=nord_dark&utcOffset=8" />
 -->
