@@ -13,8 +13,8 @@
 
 <div align=center>
 	<h1>:mailbox_with_mail: Contacts :mailbox_with_mail:</h1>
-	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyj02126@gmail.com)(mailto:kimyj02126@gmail.com)" />
-	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimyj1592@naver.com)(mailto:kimyj1592@naver.com)" />
+	<p>📞 Gmail  |  kimyj02126@gmail.com</p>
+	<p>📞 Naver  |  kimyj1592@naver.com</p>
 </div>
  
 <div align=center>
