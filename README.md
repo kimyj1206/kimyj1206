@@ -43,34 +43,5 @@
 
 ---
 
-<div align=center>
-	<a href="https://github.com/devxb/gitanimals">
-  		<img src="https://render.gitanimals.org/farms/kimyj1206"/>
-	</a>
-</div>
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-<!--
-📚 🛠
-**kimyj1206/kimyj1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimyj1206&theme=nord_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimyj1206&theme=nord_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimyj1206&theme=nord_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimyj1206&theme=nord_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimyj1206&theme=nord_dark&utcOffset=8" />
-![kimyj1206's github stats](https://github-readme-stats.vercel.app/api?username=kimyj1206)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyj1592" />
--->
